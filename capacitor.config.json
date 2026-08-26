@@ -1,0 +1,9 @@
+{
+  "appId": "com.sakkahbaloot.app",
+  "appName": "صكّة بلوت",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
